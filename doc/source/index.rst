@@ -39,6 +39,17 @@ elected soon. For more information about the User Committee, click
 `here <http://governance.openstack.org/uc/>`_.
 
 
+SIGs
+----
+
+The `SIGs (Special Interest Groups) <http://governance.openstack.org/sigs/>`_
+are a form of working group in OpenStack that is not directly tied to a
+specific governance body. SIGs activities center around a topic or practice
+that spans all the community (developers, operators, end users...), by
+forming a guild of people with a shared interest. For more information about
+SIGs, click `here <http://governance.openstack.org/sigs/>`_.
+
+
 Elections
 ---------
 
