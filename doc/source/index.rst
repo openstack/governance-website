@@ -54,6 +54,13 @@ OpenStack governance bodies and leaders are regularly renewed using elections.
 Find more information about community-organized PTL and Technical
 Committee `elections <https://governance.openstack.org/election/>`_.
 
+Ideas
+-----
+
+The OpenStack Technical Committee is welcoming all news ideas of global changes
+to OpenStack, within the `ideas repository <https://governance.openstack.org/ideas/>`_.
+Changes related to a single official project should be discussed directly with
+the project team instead.
 
 .. _`OpenStack Foundation bylaws`: http://www.openstack.org/legal/bylaws-of-the-openstack-foundation/
 
