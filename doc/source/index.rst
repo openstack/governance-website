@@ -34,6 +34,16 @@ the software. Find more information about the
 charter, current membership, reference documents and past resolutions.
 
 
+Project Teams
+-------------
+
+The `Project Teams <https://governance.openstack.org/tc/reference/projects/index.html>`_
+are working groups that are directly responsible for the production of
+OpenStack software releases, either through the development and maintenance
+of specific components, or by running common development functions like QA or
+Release Management. Find more information about `Project Teams <https://governance.openstack.org/tc/reference/projects/index.html>`_.
+
+
 SIGs
 ----
 
@@ -49,8 +59,8 @@ Elections
 ---------
 
 OpenStack governance bodies and leaders are regularly renewed using elections.
-Find more information about community-organized PTL and Technical
-Committee `elections <https://governance.openstack.org/election/>`_.
+Find more information about community-organized Project Team leads and
+Technical Committee `elections <https://governance.openstack.org/election/>`_.
 
 
 Ideas
