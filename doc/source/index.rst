@@ -47,12 +47,13 @@ Release Management. Find more information about `Project Teams <https://governan
 SIGs
 ----
 
-The `SIGs (Special Interest Groups) <https://governance.openstack.org/sigs/>`_
-are working groups that are not directly responsible for the production of
-a specific piece of OpenStack software. SIGs activities center around a topic
-or practice that spans all the community (developers, operators, end users...),
+The `SIGs (Special Interest Groups)
+<https://governance.openstack.org/tc/reference/sigs/>`_ are working groups
+that are not directly responsible for the production of a specific piece of
+OpenStack software. SIGs activities center around a topic or practice that
+spans all the community (developers, operators, end users...),
 by forming a guild of people with a shared interest. Find more information
-about `SIGs <https://governance.openstack.org/sigs/>`_.
+about `SIGs <https://governance.openstack.org/tc/reference/sigs/>`_.
 
 
 Elections
